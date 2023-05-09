@@ -44,5 +44,5 @@ Oi! Eu sou Matheus, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
   
  
 </div>
-![snake gif](https://github.com/MatheusBrilhante/MatheusBrilhante/blob/output/github-contribution-grid-snake.svg)
+
 

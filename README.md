@@ -20,7 +20,9 @@ Oi! Eu sou Matheus, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
   <img align="center" alt="Mths-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
   <img align="right" alt="Mths-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/R1vsiA8P5rkAAAAC/sasuke-boruto.gif">
+
 </div>
+  
   
   ##
  
@@ -32,6 +34,8 @@ Oi! Eu sou Matheus, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
   <a href="https://wa.me/+5561982615864"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-![snake gif](https://github.com/MatheusBrilhante/MatheusBrilhante/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
+
+![snake gif](https://github.com/MatheusBrilhante/MatheusBrilhante/blob/output/github-contribution-grid-snake.svg)

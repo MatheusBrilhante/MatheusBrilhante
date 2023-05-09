@@ -9,7 +9,7 @@ Oi! Eu sou Matheus, seja bem-vindo(a) ao meu perfil! <img src="https://media.gip
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusBrilhante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBrilhante&layout=compact&langs_count=7&theme=tokyonight"/>
 
- ![snake gif](https://github.com/MatheusBrilhante/MatheusBrilhante/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
   
 
